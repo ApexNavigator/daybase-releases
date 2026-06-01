@@ -6,15 +6,15 @@
         <description>Daybase Update Feed</description>
         <language>de</language>
         <item>
-            <title>Version 1.1</title>
-            <pubDate>Mo., 01 Juni 2026 11:56:21 +0000</pubDate>
-            <sparkle:version>1.1</sparkle:version>
-            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+            <title>Version 1.2</title>
+            <pubDate>Mo., 01 Juni 2026 12:11:14 +0000</pubDate>
+            <sparkle:version>1.2</sparkle:version>
+            <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/ApexNavigator/daybase-releases/releases/download/v1.1/Daybase-1.1.dmg"
-                sparkle:edSignature="BDWtO0YUOsD7+VPI11JL+UE1BxkS5HnOZk/HgnkExr74oQgNl6xZntNOQloASwOxVEx0UdetAvbVUuwwTrqmBg=="
-                length="1051960"
+                url="https://github.com/ApexNavigator/daybase-releases/releases/download/v1.2/Daybase-1.2.dmg"
+                sparkle:edSignature="75tHI6wA0gT95y1/DOP3AWXzBx2dG30c9ap4MdGzA59gWeuTgV4vmA3tVbHcoVm6Tg24+P0HKn9yxZ0+mV74BA=="
+                length="1432253"
                 type="application/octet-stream" />
         </item>
     </channel>
