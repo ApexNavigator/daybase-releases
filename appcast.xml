@@ -7,14 +7,14 @@
         <language>de</language>
         <item>
             <title>Version 1.3</title>
-            <pubDate>Mo., 01 Juni 2026 12:21:19 +0000</pubDate>
+            <pubDate>Mo., 01 Juni 2026 12:24:43 +0000</pubDate>
             <sparkle:version>1.3</sparkle:version>
             <sparkle:shortVersionString>1.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <enclosure
                 url="https://github.com/ApexNavigator/daybase-releases/releases/download/v1.3/Daybase-1.3.dmg"
-                sparkle:edSignature="Y6VfkVts/Au90CJH38i/m1UdbiW5AkLqPtToMNlyK1ztBHxN1uVnenZ0OR8h6EKKdSO7wR8j8ozBfLek24B+Bw=="
-                length="1436779"
+                sparkle:edSignature="rLIgLQ2aur1bYxaqUC0Scnkpja6psh2nKtzdAwtKc/rDMdSRSzi7cq3O5xbH7r2x+JaLMhTWpfgSHWUZ2OjvAQ=="
+                length="1436795"
                 type="application/octet-stream" />
         </item>
     </channel>
